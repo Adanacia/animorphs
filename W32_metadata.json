@@ -1,0 +1,44 @@
+{
+  "name": "Sea_Otter",
+  "description": "NFT named Sea_Otter. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 9,692. Health: 1,527. Attack: 1,698. Sats: 13,366. Size: 2,020. W32: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,692"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,527"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,698"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "13,366"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,020"
+    },
+    {
+      "trait_type": "W32"
+    }
+  ],
+  "signature": "7fVLlKeEO6Y2dcYTJR5b28u03dWOGVch/hQTtk5hto4="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Jellyfish",
+  "description": "NFT named Jellyfish. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 5,364. Health: 898. Attack: 1,435. Sats: 29,268. Size: 410. W18: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "5,364"
+    },
+    {
+      "trait_type": "Health",
+      "value": "898"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,435"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "29,268"
+    },
+    {
+      "trait_type": "Size",
+      "value": "410"
+    },
+    {
+      "trait_type": "W18"
+    }
+  ],
+  "signature": "SJwmf2VbSpHLjFKhFn7UvRDhILsgeRkGELA2cKtIlWI="
+}

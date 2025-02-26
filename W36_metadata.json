@@ -1,0 +1,44 @@
+{
+  "name": "Seahorse",
+  "description": "NFT named Seahorse. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 4,662. Health: 819. Attack: 1,353. Sats: 214. Size: 2,010. W36: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "4,662"
+    },
+    {
+      "trait_type": "Health",
+      "value": "819"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,353"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "214"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,010"
+    },
+    {
+      "trait_type": "W36"
+    }
+  ],
+  "signature": "Q28vDQ8xxq/ekZ2PdqcRzx5e5ksx3vue7zGWBKCMKBU="
+}

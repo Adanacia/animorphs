@@ -1,0 +1,44 @@
+{
+  "name": "Anglerfish",
+  "description": "NFT named Anglerfish. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 12,552. Health: 1,683. Attack: 2,138. Sats: 1,491. Size: 3,220. W3: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "12,552"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,683"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,138"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "1,491"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,220"
+    },
+    {
+      "trait_type": "W3"
+    }
+  ],
+  "signature": "6aTpIlPaarCjvA80cjWjB8HRc14tLvutdTtO6lFUBIM="
+}

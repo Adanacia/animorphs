@@ -1,0 +1,44 @@
+{
+  "name": "Stingray",
+  "description": "NFT named Stingray. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 11,004. Health: 1,636. Attack: 2,040. Sats: 44,554. Size: 2,020. W38: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "11,004"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,636"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,040"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "44,554"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,020"
+    },
+    {
+      "trait_type": "W38"
+    }
+  ],
+  "signature": "uTMB8cZxwbaC7Lrdn8mdtjFSibObj+SaRBhEZDTldi8="
+}

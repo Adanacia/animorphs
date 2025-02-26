@@ -1,0 +1,44 @@
+{
+  "name": "Kingfisher",
+  "description": "NFT named Kingfisher. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 7,419. Health: 1,292. Attack: 1,638. Sats: 235,294. Size: 510. W19: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,419"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,292"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,638"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "235,294"
+    },
+    {
+      "trait_type": "Size",
+      "value": "510"
+    },
+    {
+      "trait_type": "W19"
+    }
+  ],
+  "signature": "I86IAFr8EewkYs3ZrzVcytNYlRd4qsJDdjmBbM7nIbU="
+}

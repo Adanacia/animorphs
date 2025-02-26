@@ -1,0 +1,44 @@
+{
+  "name": "Gorilla",
+  "description": "NFT named Gorilla. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 19,924. Health: 2,671. Attack: 4,445. Sats: 37,267. Size: 3,220. W13: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "19,924"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,671"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "4,445"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "37,267"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,220"
+    },
+    {
+      "trait_type": "W13"
+    }
+  ],
+  "signature": "Gx9AX4FxFG84LifW0Vfa2yjiZ8koF83DhbAMSuQZUJc="
+}

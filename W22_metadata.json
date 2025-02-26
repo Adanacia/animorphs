@@ -1,0 +1,44 @@
+{
+  "name": "Manta_Ray",
+  "description": "NFT named Manta_Ray. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 25,027. Health: 2,421. Attack: 2,143. Sats: 10,396. Size: 10,100. W22: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "25,027"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,421"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,143"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "10,396"
+    },
+    {
+      "trait_type": "Size",
+      "value": "10,100"
+    },
+    {
+      "trait_type": "W22"
+    }
+  ],
+  "signature": "kHVHRzcTSOCQGbewYtdLo+TAvjHQleCxpG8bxbZMTgo="
+}

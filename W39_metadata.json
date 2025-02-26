@@ -1,0 +1,44 @@
+{
+  "name": "Tree_Frog",
+  "description": "NFT named Tree_Frog. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 5,829. Health: 1,192. Attack: 1,475. Sats: 436,364. Size: 110. W39: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "5,829"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,192"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,475"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "436,364"
+    },
+    {
+      "trait_type": "Size",
+      "value": "110"
+    },
+    {
+      "trait_type": "W39"
+    }
+  ],
+  "signature": "8Dr1zJHQVQ+TuEzNFfbbbRp2KQMADcCGeuhBlykUeG8="
+}

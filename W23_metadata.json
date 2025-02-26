@@ -1,0 +1,44 @@
+{
+  "name": "Nautilus",
+  "description": "NFT named Nautilus. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 7,343. Health: 1,683. Attack: 1,638. Sats: 13,902. Size: 410. W23: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,343"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,683"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,638"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "13,902"
+    },
+    {
+      "trait_type": "Size",
+      "value": "410"
+    },
+    {
+      "trait_type": "W23"
+    }
+  ],
+  "signature": "UbtagO6uIiNAtwbGjup08easmyz/i1r3FBug6368F68="
+}

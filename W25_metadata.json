@@ -1,0 +1,44 @@
+{
+  "name": "Orca",
+  "description": "NFT named Orca. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 45,967. Health: 3,848. Attack: 4,948. Sats: 9,282. Size: 18,100. W25: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "45,967"
+    },
+    {
+      "trait_type": "Health",
+      "value": "3,848"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "4,948"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "9,282"
+    },
+    {
+      "trait_type": "Size",
+      "value": "18,100"
+    },
+    {
+      "trait_type": "W25"
+    }
+  ],
+  "signature": "RUhAxIfbm2JbHX485+yZDT6vnoBbaDLxLT1nLR3EKoE="
+}

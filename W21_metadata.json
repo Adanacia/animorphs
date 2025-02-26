@@ -1,0 +1,44 @@
+{
+  "name": "Manatee",
+  "description": "NFT named Manatee. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 19,388. Health: 2,665. Attack: 2,143. Sats: 14,851. Size: 6060. W21: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "19,388"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,665"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,143"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "14,851"
+    },
+    {
+      "trait_type": "Size",
+      "value": "6060"
+    },
+    {
+      "trait_type": "W21"
+    }
+  ],
+  "signature": "VYbrpoI3sHhRg44SutEsyclQEwAdB2tGabrRM8Y2xiw="
+}

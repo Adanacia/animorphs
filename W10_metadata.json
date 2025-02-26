@@ -1,0 +1,44 @@
+{
+  "name": "Dolphin",
+  "description": "NFT named Dolphin. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 20,152. Health: 2,571. Attack: 2,343. Sats: 29,703. Size: 6060. W10: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "20,152"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,571"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,343"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "29,703"
+    },
+    {
+      "trait_type": "Size",
+      "value": "6060"
+    },
+    {
+      "trait_type": "W10"
+    }
+  ],
+  "signature": "Sn0plfyMnlXSbTCUi8lQtM3GAtDuztYP0h+GiiuGEHY="
+}

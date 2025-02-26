@@ -1,0 +1,44 @@
+{
+  "name": "Raccoon",
+  "description": "NFT named Raccoon. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 9,424. Health: 1,321. Attack: 2,240. Sats: 59,504. Size: 1,210. W28: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,424"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,321"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,240"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "59,504"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,210"
+    },
+    {
+      "trait_type": "W28"
+    }
+  ],
+  "signature": "1hZSZp9gB1he8pdaaSv2OkfBgewg4k4ljQRlnhH/iAM="
+}

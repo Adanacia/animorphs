@@ -1,0 +1,44 @@
+{
+  "name": "Humpback_Whale",
+  "description": "NFT named Humpback_Whale. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 61,554. Health: 3,848. Attack: 3,948. Sats: 2,682. Size: 30,200. W17: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "61,554"
+    },
+    {
+      "trait_type": "Health",
+      "value": "3,848"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "3,948"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "2,682"
+    },
+    {
+      "trait_type": "Size",
+      "value": "30,200"
+    },
+    {
+      "trait_type": "W17"
+    }
+  ],
+  "signature": "wUGtVOcZMgI+Fhl5KBNBd0fEXJ5L8NpAr7RDDo91bBQ="
+}

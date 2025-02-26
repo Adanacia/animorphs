@@ -1,0 +1,44 @@
+{
+  "name": "Sea_Turtle",
+  "description": "NFT named Sea_Turtle. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 14,346. Health: 3,354. Attack: 2,143. Sats: 14,851. Size: 2020. W34: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "14,346"
+    },
+    {
+      "trait_type": "Health",
+      "value": "3,354"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,143"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "14,851"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2020"
+    },
+    {
+      "trait_type": "W34"
+    }
+  ],
+  "signature": "+9grk6NGJMrSaF408l+XOuj6E43LZfQjHokyF9uRyxM="
+}

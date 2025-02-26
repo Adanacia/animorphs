@@ -1,0 +1,44 @@
+{
+  "name": "Pufferfish",
+  "description": "NFT named Pufferfish. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 6,830. Health: 1,339. Attack: 1,555. Sats: 24,590. Size: 610. W27: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,830"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,339"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,555"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "24,590"
+    },
+    {
+      "trait_type": "Size",
+      "value": "610"
+    },
+    {
+      "trait_type": "W27"
+    }
+  ],
+  "signature": "LiLtMekWlPdkSbOC74ukyPUQgadddDIOAoKOcPhj3m4="
+}

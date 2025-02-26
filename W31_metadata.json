@@ -1,0 +1,44 @@
+{
+  "name": "Sea_Lion",
+  "description": "NFT named Sea_Lion. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 16,075. Health: 1,783. Attack: 2,143. Sats: 15,882. Size: 5,100. W31: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "16,075"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,783"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,143"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "15,882"
+    },
+    {
+      "trait_type": "Size",
+      "value": "5,100"
+    },
+    {
+      "trait_type": "W31"
+    }
+  ],
+  "signature": "I+N6ORJmtkNykY8FPtuFEfBcyI0cytRQwBTyf5Ewnhk="
+}
