@@ -1,0 +1,44 @@
+{
+  "name": "Anemone",
+  "description": "NFT named Anemone. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 11,253. Health: 3,942. Attack: 1,437. Sats: 1. Size: 210. W2: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "11,253"
+    },
+    {
+      "trait_type": "Health",
+      "value": "3,942"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,437"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "1"
+    },
+    {
+      "trait_type": "Size",
+      "value": "210"
+    },
+    {
+      "trait_type": "W2"
+    }
+  ],
+  "signature": "+vx5m+XGzfMyF9rTAkwajd7nA1IVGTmJ71zlLv+W8ow="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Capuchin_Monkey",
+  "description": "NFT named Capuchin_Monkey. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 9,728. Health: 2,174. Attack: 1,718. Sats: 125,926. Size: 810. W6: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,728"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,174"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,718"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "125,926"
+    },
+    {
+      "trait_type": "Size",
+      "value": "810"
+    },
+    {
+      "trait_type": "W6"
+    }
+  ],
+  "signature": "t/IHn1z9NrqbqviIct69LXRPtjqKrQPUO9MGP7yCN0o="
+}

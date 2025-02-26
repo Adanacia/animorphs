@@ -1,0 +1,44 @@
+{
+  "name": "Octopus",
+  "description": "NFT named Octopus. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 9,853. Health: 939. Attack: 2,840. Sats: 118,812. Size: 1,010. W24: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,853"
+    },
+    {
+      "trait_type": "Health",
+      "value": "939"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,840"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "118,812"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,010"
+    },
+    {
+      "trait_type": "W24"
+    }
+  ],
+  "signature": "TZaeZs/qJG6C7SC6x6KBedCmv02vViGfUCRx4W68tZI="
+}

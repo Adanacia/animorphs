@@ -1,0 +1,44 @@
+{
+  "name": "Sea_Urchin",
+  "description": "NFT named Sea_Urchin. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 16,788. Health: 6,683. Attack: 1,437. Sats: 210. Size: 210. W35: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "16,788"
+    },
+    {
+      "trait_type": "Health",
+      "value": "6,683"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,437"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "210"
+    },
+    {
+      "trait_type": "Size",
+      "value": "210"
+    },
+    {
+      "trait_type": "W35"
+    }
+  ],
+  "signature": "LgHqGQgkqML3T6s+YKkmyYAlxsG+c9RPPAXA3tWdneU="
+}

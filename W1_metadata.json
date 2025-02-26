@@ -1,0 +1,44 @@
+{
+  "name": "Alligator",
+  "description": "NFT named Alligator. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 32,406. Health: 1,985. Attack: 7,805. Sats: 11,881. Size: 8080. W1: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "32,406"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,985"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "7,805"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "11,881"
+    },
+    {
+      "trait_type": "Size",
+      "value": "8080"
+    },
+    {
+      "trait_type": "W1"
+    }
+  ],
+  "signature": "i+rC7D98/JunoAeTCQefyDGqk0K5iHpywHrEuOVJfxs="
+}

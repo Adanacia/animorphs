@@ -1,0 +1,44 @@
+{
+  "name": "Great_White_Shark",
+  "description": "NFT named Great_White_Shark. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 49,684. Health: 4,142. Attack: 9,948. Sats: 12,444. Size: 13,500. W14: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "49,684"
+    },
+    {
+      "trait_type": "Health",
+      "value": "4,142"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "9,948"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "12,444"
+    },
+    {
+      "trait_type": "Size",
+      "value": "13,500"
+    },
+    {
+      "trait_type": "W14"
+    }
+  ],
+  "signature": "ZCv0vRom8sfJoJHWfEbb3jTh3dG3TVkNROEmQKkd0rQ="
+}

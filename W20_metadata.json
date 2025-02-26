@@ -1,0 +1,44 @@
+{
+  "name": "Lobster",
+  "description": "NFT named Lobster. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 9,644. Health: 2,271. Attack: 1,738. Sats: 4,752. Size: 1,010. W20: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,644"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,271"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,738"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "4,752"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,010"
+    },
+    {
+      "trait_type": "W20"
+    }
+  ],
+  "signature": "8pr7Y8krKRKBMFMCiPTQsrnYypTiuSMnMV+gnvp8ZmM="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Sea_Slug",
+  "description": "NFT named Sea_Slug. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 4,508. Health: 760. Attack: 1,335. Sats: 1,429. Size: 210. W33: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "4,508"
+    },
+    {
+      "trait_type": "Health",
+      "value": "760"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,335"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "1,429"
+    },
+    {
+      "trait_type": "Size",
+      "value": "210"
+    },
+    {
+      "trait_type": "W33"
+    }
+  ],
+  "signature": "Z8SM6gxSdypFvcASfjY0kqppGhUUo602GJUJcUbshw4="
+}

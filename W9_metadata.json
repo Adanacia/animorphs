@@ -1,0 +1,44 @@
+{
+  "name": "Cuttlefish",
+  "description": "NFT named Cuttlefish. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 6,265. Health: 839. Attack: 1,475. Sats: 17,822. Size: 1,010. W9: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,265"
+    },
+    {
+      "trait_type": "Health",
+      "value": "839"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,475"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "17,822"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,010"
+    },
+    {
+      "trait_type": "W9"
+    }
+  ],
+  "signature": "kC0dRqw+bdOnkPFx+ybHOH5RxRMnQrUiTad5EE+7hnY="
+}

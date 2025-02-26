@@ -1,0 +1,44 @@
+{
+  "name": "Eel",
+  "description": "NFT named Eel. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 12,508. Health: 2,027. Attack: 1,738. Sats: 19,868. Size: 3,020. W12: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "12,508"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,027"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,738"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "19,868"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,020"
+    },
+    {
+      "trait_type": "W12"
+    }
+  ],
+  "signature": "4t1eJddvs43VQVKFRlubsbVwaa2bj+1cMOC7hOYkqCY="
+}

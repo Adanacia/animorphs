@@ -1,0 +1,44 @@
+{
+  "name": "Otter",
+  "description": "NFT named Otter. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 9,549. Health: 1,439. Attack: 1,698. Sats: 16,337. Size: 2020. W26: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,549"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,439"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,698"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "16,337"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2020"
+    },
+    {
+      "trait_type": "W26"
+    }
+  ],
+  "signature": "U8jbZharn8NosTxhyCi+7aIy11ZkJxn+DpRZQacMSp8="
+}

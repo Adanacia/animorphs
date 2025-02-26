@@ -1,0 +1,44 @@
+{
+  "name": "Hippo",
+  "description": "NFT named Hippo. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 26,640. Health: 2,571. Attack: 5,445. Sats: 13,595. Size: 6,620. W16: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "26,640"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,571"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "5,445"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "13,595"
+    },
+    {
+      "trait_type": "Size",
+      "value": "6,620"
+    },
+    {
+      "trait_type": "W16"
+    }
+  ],
+  "signature": "x8DxxVfhVQP9GS4plP3vCmzaMg6wvoW3Nr+H/624izU="
+}

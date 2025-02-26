@@ -1,0 +1,44 @@
+{
+  "name": "Blue_Whale",
+  "description": "NFT named Blue_Whale. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 107,621. Health: 3,848. Attack: 3,948. Sats: 2,475. Size: 60,600. W5: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "107,621"
+    },
+    {
+      "trait_type": "Health",
+      "value": "3,848"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "3,948"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "2,475"
+    },
+    {
+      "trait_type": "Size",
+      "value": "60,600"
+    },
+    {
+      "trait_type": "W5"
+    }
+  ],
+  "signature": "ypM3ka1mHn0ZwG5dd/2oNtIR00RCl+sIYUMgyCUXRME="
+}

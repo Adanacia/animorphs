@@ -1,0 +1,44 @@
+{
+  "name": "Sea_Dragon",
+  "description": "NFT named Sea_Dragon. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 6,169. Health: 1,045. Attack: 1,535. Sats: 19,672. Size: 610. W30: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,169"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,045"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,535"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "19,672"
+    },
+    {
+      "trait_type": "Size",
+      "value": "610"
+    },
+    {
+      "trait_type": "W30"
+    }
+  ],
+  "signature": "km0rDMikpgr8Xn/BQgOllX7QzcfR2SMH0BTPkrCrQXY="
+}

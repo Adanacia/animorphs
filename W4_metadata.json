@@ -1,0 +1,44 @@
+{
+  "name": "Bison",
+  "description": "NFT named Bison. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 16,415. Health: 1,689. Attack: 2,943. Sats: 41,791. Size: 4,020. W4: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "16,415"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,689"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,943"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "41,791"
+    },
+    {
+      "trait_type": "Size",
+      "value": "4,020"
+    },
+    {
+      "trait_type": "W4"
+    }
+  ],
+  "signature": "juW7YBsJmV4eYr41DqtlLuyJM5vLSEzWOpUWECW07qM="
+}

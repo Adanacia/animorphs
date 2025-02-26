@@ -1,0 +1,44 @@
+{
+  "name": "Dragonfly",
+  "description": "NFT named Dragonfly. : undefined. Animorph: undefined. Type: Water. Power: undefined. Rating: 5,510. Health: 730. Attack: 1,343. Sats: 771,429. Size: 210. W11: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "5,510"
+    },
+    {
+      "trait_type": "Health",
+      "value": "730"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,343"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "771,429"
+    },
+    {
+      "trait_type": "Size",
+      "value": "210"
+    },
+    {
+      "trait_type": "W11"
+    }
+  ],
+  "signature": "Vfxn+jMR6Y79YtiT2YetHUBX+QunM74ycwN0/Fi4X58="
+}
