@@ -1,0 +1,44 @@
+{
+  "name": "Arctic_Hare",
+  "description": "NFT named Arctic_Hare. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 7,961. Health: 1,136. Attack: 1,718. Sats: 161,580. Size: 1,114. I4: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,961"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,136"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,718"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "161,580"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,114"
+    },
+    {
+      "trait_type": "I4"
+    }
+  ],
+  "signature": "iH+g6urjy/Qa9T0BNU/psCeA0r+SEr7YFwp6XL72vxU="
+}

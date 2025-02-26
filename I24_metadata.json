@@ -1,0 +1,44 @@
+{
+  "name": "Puffin",
+  "description": "NFT named Puffin. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 8,942. Health: 2,060. Attack: 1,595. Sats: 303,309. Size: 544. I24: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,942"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,060"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,595"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "303,309"
+    },
+    {
+      "trait_type": "Size",
+      "value": "544"
+    },
+    {
+      "trait_type": "I24"
+    }
+  ],
+  "signature": "tO3EoLKPCuksiGGCGH4nPPjFQ/eLLz+eaUZR8ZCjycI="
+}

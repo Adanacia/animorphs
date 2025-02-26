@@ -1,0 +1,44 @@
+{
+  "name": "Snowy_Eret",
+  "description": "NFT named Snowy_Eret. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 8,771. Health: 1,586. Attack: 1,495. Sats: 66,007. Size: 1,818. I32: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,771"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,586"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,495"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "66,007"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,818"
+    },
+    {
+      "trait_type": "I32"
+    }
+  ],
+  "signature": "Mhy+w7K8zmOzeqOu9u/+wR8VH3s/YekL8DD3jDGJJcU="
+}

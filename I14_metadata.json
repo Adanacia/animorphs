@@ -1,0 +1,44 @@
+{
+  "name": "Harbor_Seal",
+  "description": "NFT named Harbor_Seal. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 11,589. Health: 1,830. Attack: 2,038. Sats: 17,554. Size: 3,418. I14: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "11,589"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,830"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,038"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "17,554"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,418"
+    },
+    {
+      "trait_type": "I14"
+    }
+  ],
+  "signature": "vUbsvAuQyKegKwl1RkErbE3C8qt0h60s1ZJ/iiHN6Y4="
+}

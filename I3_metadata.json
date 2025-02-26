@@ -1,0 +1,44 @@
+{
+  "name": "Arctic_Fox",
+  "description": "NFT named Arctic_Fox. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 9,714. Health: 1,395. Attack: 2,143. Sats: 83,572. Size: 1,724. I3: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,714"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,395"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,143"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "83,572"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,724"
+    },
+    {
+      "trait_type": "I3"
+    }
+  ],
+  "signature": "pbr6TBdTudIFbkl40elmQJSNf4J5Tb51pK2OhgG+Gmo="
+}

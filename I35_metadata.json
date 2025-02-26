@@ -1,0 +1,44 @@
+{
+  "name": "Swordfish",
+  "description": "NFT named Swordfish. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 5,871. Health: 1,442. Attack: 2,943. Sats: 57,692. Size: 5,200. I35: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "5,871"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,442"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,943"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "57,692"
+    },
+    {
+      "trait_type": "Size",
+      "value": "5,200"
+    },
+    {
+      "trait_type": "I35"
+    }
+  ],
+  "signature": "oCz+uxQHQa9SSKKaxuKLZTewOZAuFTjJa2rpnGbk61Q="
+}

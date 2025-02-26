@@ -1,0 +1,44 @@
+{
+  "name": "Pika",
+  "description": "NFT named Pika. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 5,808. Health: 957. Attack: 1,535. Sats: 197,802. Size: 364. I21: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "5,808"
+    },
+    {
+      "trait_type": "Health",
+      "value": "957"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,535"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "197,802"
+    },
+    {
+      "trait_type": "Size",
+      "value": "364"
+    },
+    {
+      "trait_type": "I21"
+    }
+  ],
+  "signature": "mosMGSg0KwoN5gvwYfTih6SQowtuwztsFubrVFi+uV4="
+}

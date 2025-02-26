@@ -1,0 +1,44 @@
+{
+  "name": "Arctic_Shrew",
+  "description": "NFT named Arctic_Shrew. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 4,331. Health: 739. Attack: 1,240. Sats: 110,092. Size: 218. I6: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "4,331"
+    },
+    {
+      "trait_type": "Health",
+      "value": "739"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,240"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "110,092"
+    },
+    {
+      "trait_type": "Size",
+      "value": "218"
+    },
+    {
+      "trait_type": "I6"
+    }
+  ],
+  "signature": "bYCywu4U6b2IXFtIWnRfRrr9qWR8rhP329gXcB7Sm8I="
+}

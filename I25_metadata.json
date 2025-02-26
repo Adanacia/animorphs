@@ -1,0 +1,44 @@
+{
+  "name": "Reindeer",
+  "description": "NFT named Reindeer. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 12,413. Health: 1,689. Attack: 2,240. Sats: 79,523. Size: 3,018. I25: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "12,413"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,689"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,240"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "79,523"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,018"
+    },
+    {
+      "trait_type": "I25"
+    }
+  ],
+  "signature": "oqlRimo/q4LL+F3F8QFwhcTdDIsB7anZtPNF1TD0gAw="
+}

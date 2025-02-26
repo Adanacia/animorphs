@@ -1,0 +1,44 @@
+{
+  "name": "Ptarmigan",
+  "description": "NFT named Ptarmigan. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 7,697. Health: 1,342. Attack: 1,638. Sats: 176,904. Size: 814. I23: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,697"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,342"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,638"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "176,904"
+    },
+    {
+      "trait_type": "Size",
+      "value": "814"
+    },
+    {
+      "trait_type": "I23"
+    }
+  ],
+  "signature": "/3kmJ5Cx781DQ4ouPDywIXnIe6c6SCN9W6Uz9gDfChQ="
+}

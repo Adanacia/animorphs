@@ -1,0 +1,44 @@
+{
+  "name": "Polar_Bear",
+  "description": "NFT named Polar_Bear. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 18,225. Health: 2,083. Attack: 4,418. Sats: 27,162. Size: 4,418. I22: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "18,225"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,083"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "4,418"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "27,162"
+    },
+    {
+      "trait_type": "Size",
+      "value": "4,418"
+    },
+    {
+      "trait_type": "I22"
+    }
+  ],
+  "signature": "C5aXbIBkicZ+3T5FZpC0Jq2Ki3L++SbzhYqgajiiNI8="
+}

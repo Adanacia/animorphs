@@ -1,0 +1,41 @@
+{
+  "name": "Lemming",
+  "description": "NFT named Lemming. Animorph: undefined. Type: Ice. Power: undefined. Rating: 4,662. Health: 760. Attack: 1,373. Sats: 50,000. Size: 300. I40: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "4,662"
+    },
+    {
+      "trait_type": "Health",
+      "value": "760"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,373"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "50,000"
+    },
+    {
+      "trait_type": "Size",
+      "value": "300"
+    },
+    {
+      "trait_type": "I40"
+    }
+  ],
+  "signature": "2pwUh02IJ+pNRYkKnoxVHkNR5a+vVid0DY6A+BBXufk="
+}

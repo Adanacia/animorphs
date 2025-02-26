@@ -1,0 +1,44 @@
+{
+  "name": "Moose",
+  "description": "NFT named Moose. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 17,591. Health: 1,995. Attack: 3,845. Sats: 34,869. Size: 4,818. I17: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "17,591"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,995"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "3,845"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "34,869"
+    },
+    {
+      "trait_type": "Size",
+      "value": "4,818"
+    },
+    {
+      "trait_type": "I17"
+    }
+  ],
+  "signature": "V5osJyOEwygboZ9x8AQafes0/dMMedN8ANoSyA1q1Wg="
+}

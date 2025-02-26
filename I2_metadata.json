@@ -1,0 +1,44 @@
+{
+  "name": "Arctic_Cod",
+  "description": "NFT named Arctic_Cod. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 6,155. Health: 1,104. Attack: 1,433. Sats: 26,258. Size: 914. I2: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,155"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,104"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,433"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "26,258"
+    },
+    {
+      "trait_type": "Size",
+      "value": "914"
+    },
+    {
+      "trait_type": "I2"
+    }
+  ],
+  "signature": "uItsga5rwXu+xvIbPD8x+o5JNuJFVc9C7lxuSIRpaqA="
+}

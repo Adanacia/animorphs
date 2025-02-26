@@ -1,0 +1,44 @@
+{
+  "name": "Squid",
+  "description": "NFT named Squid. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 6,368. Health: 848. Attack: 1,533. Sats: 96,000. Size: 1,000. I34: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,368"
+    },
+    {
+      "trait_type": "Health",
+      "value": "848"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,533"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "96,000"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,000"
+    },
+    {
+      "trait_type": "I34"
+    }
+  ],
+  "signature": "2VQFBVTg7cw6b6Rz1js4YZE7Qd4KwlZS4LMWrCD1DzY="
+}

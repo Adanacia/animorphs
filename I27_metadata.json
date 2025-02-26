@@ -1,0 +1,44 @@
+{
+  "name": "Snow_Bunting",
+  "description": "NFT named Snow_Bunting. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 6,991. Health: 1,116. Attack: 4,195. Sats: 183,374. Size: 818. I27: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,991"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,116"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "4,195"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "183,374"
+    },
+    {
+      "trait_type": "Size",
+      "value": "818"
+    },
+    {
+      "trait_type": "I27"
+    }
+  ],
+  "signature": "/VHrVW4SbxaugpBLMO+QMswGIJKqE21CpoS1qBJBLpA="
+}

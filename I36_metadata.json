@@ -1,0 +1,44 @@
+{
+  "name": "Tiger_Shark",
+  "description": "NFT named Tiger_Shark. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 20,202. Health: 1,883. Attack: 2,495. Sats: 8,889. Size: 10,800. I36: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "20,202"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,883"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,495"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "8,889"
+    },
+    {
+      "trait_type": "Size",
+      "value": "10,800"
+    },
+    {
+      "trait_type": "I36"
+    }
+  ],
+  "signature": "YwuqCF7nNXLSF5psflrhzingCtWetkZX356SU+Niz8k="
+}

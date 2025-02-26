@@ -1,0 +1,44 @@
+{
+  "name": "Arctic_Tern",
+  "description": "NFT named Arctic_Tern. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 8,907. Health: 2,001. Attack: 1,720. Sats: 137,435. Size: 764. I8: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,907"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,001"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,720"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "137,435"
+    },
+    {
+      "trait_type": "Size",
+      "value": "764"
+    },
+    {
+      "trait_type": "I8"
+    }
+  ],
+  "signature": "PLhWsUnLhbUMVg0uHvmQrfoN+/7e78C4yvPC785nn78="
+}

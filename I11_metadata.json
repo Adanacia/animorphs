@@ -1,0 +1,44 @@
+{
+  "name": "Dall_Sheep",
+  "description": "NFT named Dall_Sheep. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 10,014. Health: 1,371. Attack: 2,040. Sats: 49,710. Size: 2,414. I11: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "10,014"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,371"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,040"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "49,710"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,414"
+    },
+    {
+      "trait_type": "I11"
+    }
+  ],
+  "signature": "47sXHMJU02W/ACNpQXCOGntZtfSuyWjRYNQkxbgE7AU="
+}
