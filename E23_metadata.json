@@ -1,0 +1,44 @@
+{
+  "name": "Lanternfish",
+  "description": "NFT named Lanternfish. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 3,906. Health: 489. Attack: 1,250. Sats: 3,623. Size: 414. E23: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "3,906"
+    },
+    {
+      "trait_type": "Health",
+      "value": "489"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,250"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "3,623"
+    },
+    {
+      "trait_type": "Size",
+      "value": "414"
+    },
+    {
+      "trait_type": "E23"
+    }
+  ],
+  "signature": "NUTEhTeJ9SCEQNZKDnpiOs4C8H12fp3pusW1MeHEVxY="
+}

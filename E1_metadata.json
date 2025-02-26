@@ -1,0 +1,44 @@
+{
+  "name": "Anglerfish",
+  "description": "NFT named Anglerfish. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 7149. Health: 1250. Attack: 2035. Sats: 28662. Size: 314. E1: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7149"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1250"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2035"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "28662"
+    },
+    {
+      "trait_type": "Size",
+      "value": "314"
+    },
+    {
+      "trait_type": "E1"
+    }
+  ],
+  "signature": "nInO9jwXnmsqJyBAq4T+/BsX/Wv62e2/yvuIRzfvkys="
+}

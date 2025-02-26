@@ -1,0 +1,44 @@
+{
+  "name": "Löwchen",
+  "description": "NFT named Löwchen. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 6,205. Health: 1,163. Attack: 1,430. Sats: 97,087. Size: 618. E25: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,205"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,163"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,430"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "97,087"
+    },
+    {
+      "trait_type": "Size",
+      "value": "618"
+    },
+    {
+      "trait_type": "E25"
+    }
+  ],
+  "signature": "mRl5y+4/ieyK7oXAnJBkjOU0wc/lTHfGh6sHjte5Kko="
+}

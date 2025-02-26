@@ -1,0 +1,44 @@
+{
+  "name": "Flying_Squirrel",
+  "description": "NFT named Flying_Squirrel. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 6,119. Health: 1,095. Attack: 1,555. Sats: 140,187. Size: 428. E15: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,119"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,095"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,555"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "140,187"
+    },
+    {
+      "trait_type": "Size",
+      "value": "428"
+    },
+    {
+      "trait_type": "E15"
+    }
+  ],
+  "signature": "InOcIgbnKHqfDQpVf9GIc6q7pQUMGppDMFrIPHYOOXU="
+}

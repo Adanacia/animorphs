@@ -1,0 +1,44 @@
+{
+  "name": "Bumblebee",
+  "description": "NFT named Bumblebee. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 4,447. Health: 530. Attack: 1,445. Sats: 1,636,364. Size: 44. E7: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "4,447"
+    },
+    {
+      "trait_type": "Health",
+      "value": "530"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,445"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "1,636,364"
+    },
+    {
+      "trait_type": "Size",
+      "value": "44"
+    },
+    {
+      "trait_type": "E7"
+    }
+  ],
+  "signature": "fG+b0o7qWoZc6Onpcq8yfGF6oKOIhDkw8+7fCuTj4aU="
+}

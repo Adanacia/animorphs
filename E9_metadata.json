@@ -1,0 +1,44 @@
+{
+  "name": "Chinchilla",
+  "description": "NFT named Chinchilla. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 6,598. Health: 1,389. Attack: 1,413. Sats: 140,078. Size: 514. E9: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,598"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,389"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,413"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "140,078"
+    },
+    {
+      "trait_type": "Size",
+      "value": "514"
+    },
+    {
+      "trait_type": "E9"
+    }
+  ],
+  "signature": "cjBb7U2wHV2HmZ/1BHjyEPiRtlX/qe8T8io95tJgcbk="
+}

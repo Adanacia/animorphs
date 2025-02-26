@@ -1,0 +1,44 @@
+{
+  "name": "Peregrine_Falcon",
+  "description": "NFT named Peregrine_Falcon. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: . Health: 1,789. Attack: 1,835. Sats: 63,7950. Size: 1,834. E13: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": ""
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,789"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,835"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "63,7950"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,834"
+    },
+    {
+      "trait_type": "E13"
+    }
+  ],
+  "signature": "u4+34UI2kKWtOCVZkzC+uqmKYnSqRqJ0u7RHmG2QnDU="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Koala",
+  "description": "NFT named Koala. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 7,862. Health: 1,280. Attack: 1,733. Sats: 18,541. Size: 1,618. E22: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,862"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,280"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,733"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "18,541"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,618"
+    },
+    {
+      "trait_type": "E22"
+    }
+  ],
+  "signature": "BGS+g+xMl6Z1g1oZ2wVJqFi1WdfBWEeGoyRbpJUCedI="
+}

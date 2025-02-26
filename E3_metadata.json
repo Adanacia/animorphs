@@ -1,0 +1,44 @@
+{
+  "name": "Bearded_Dragon",
+  "description": "NFT named Bearded_Dragon. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 6371. Health: 1142. Attack: 1393. Sats: 41420. Size: 1014. E3: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6371"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1142"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1393"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "41420"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1014"
+    },
+    {
+      "trait_type": "E3"
+    }
+  ],
+  "signature": "YTGTTKMFwgE+y9Ipqe8kgfcr/16Q/sEX0mn1e9lk6Iw="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Fiddler_Crab",
+  "description": "NFT named Fiddler_Crab. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 4,819. Health: 907. Attack: 1,330. Sats: 327,273. Size: 110. E14: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "4,819"
+    },
+    {
+      "trait_type": "Health",
+      "value": "907"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,330"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "327,273"
+    },
+    {
+      "trait_type": "Size",
+      "value": "110"
+    },
+    {
+      "trait_type": "E14"
+    }
+  ],
+  "signature": "w7np6asN0W4NHQ89AXFYeOZq7hWv15IyH18IDn4FYAc="
+}

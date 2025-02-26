@@ -1,0 +1,44 @@
+{
+  "name": "Hummingbird",
+  "description": "NFT named Hummingbird. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 7,139. Health: 1,466. Attack: 1,250. Sats: 1,250,000. Size: 192. E18: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,139"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,466"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,250"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "1,250,000"
+    },
+    {
+      "trait_type": "Size",
+      "value": "192"
+    },
+    {
+      "trait_type": "E18"
+    }
+  ],
+  "signature": "3G6X+ZwB/5Kmy/LMLG7YF9ZUQ/09JMDwPEWwDLdkNDI="
+}

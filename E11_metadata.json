@@ -1,0 +1,44 @@
+{
+  "name": "Cobra",
+  "description": "NFT named Cobra. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 10,290. Health: 1,783. Attack: 2,140. Sats: 29,732. Size: 2018. E11: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "10,290"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,783"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,140"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "29,732"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2018"
+    },
+    {
+      "trait_type": "E11"
+    }
+  ],
+  "signature": "1ElOkYWT7n0Rv6cx9/2y49myAg++VE8b68LWXlju7fY="
+}

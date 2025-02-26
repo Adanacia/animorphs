@@ -1,0 +1,44 @@
+{
+  "name": "Leopard",
+  "description": "NFT named Leopard. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 12,018. Health: 1,601. Attack: 2,240. Sats: 54,071. Size: 3,218. E24: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "12,018"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,601"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,240"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "54,071"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,218"
+    },
+    {
+      "trait_type": "E24"
+    }
+  ],
+  "signature": "QX0tfqxpzQcsmN0BLaNhZqaimxej/ya1ux3t2FwBF/M="
+}

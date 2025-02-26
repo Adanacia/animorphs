@@ -1,0 +1,44 @@
+{
+  "name": "Porcupine",
+  "description": "NFT named Porcupine. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 7,778. Health: 1,280. Attack: 1,755. Sats: 5,562. Size: 1,618. E31: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,778"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,280"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,755"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "5,562"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,618"
+    },
+    {
+      "trait_type": "E31"
+    }
+  ],
+  "signature": "kUXL8z7lgGaRA1IpPy5p8CQ5hN1Na3dpU/ZhvVYFOig="
+}

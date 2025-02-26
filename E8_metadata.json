@@ -1,0 +1,44 @@
+{
+  "name": "Cane_Corso",
+  "description": "NFT named Cane_Corso. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 10,519. Health: 1,304. Attack: 2,938. Sats: 67,893. Size: 1,414. E8: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "10,519"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,304"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,938"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "67,893"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,414"
+    },
+    {
+      "trait_type": "E8"
+    }
+  ],
+  "signature": "WEAWlED0WboSX5pTEsSg36regEea9ZeVkVsfgJB6U6w="
+}

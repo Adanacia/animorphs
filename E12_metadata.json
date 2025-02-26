@@ -1,0 +1,44 @@
+{
+  "name": "Elephant",
+  "description": "NFT named Elephant. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 25,108. Health: 3,860. Attack: 2,245. Sats: 9,985. Size: 12,018. E12: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "25,108"
+    },
+    {
+      "trait_type": "Health",
+      "value": "3,860"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,245"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "9,985"
+    },
+    {
+      "trait_type": "Size",
+      "value": "12,018"
+    },
+    {
+      "trait_type": "E12"
+    }
+  ],
+  "signature": "5QMQKFg6nTHGD8pfuIZMNzdGSaIVl1j7Ic5W+Es5XhI="
+}

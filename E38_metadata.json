@@ -1,0 +1,44 @@
+{
+  "name": "Toucan",
+  "description": "NFT named Toucan. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 7,664. Health: 1,389. Attack: 1,535. Sats: 116,505. Size: 1,030. E38: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,664"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,389"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,535"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "116,505"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,030"
+    },
+    {
+      "trait_type": "E38"
+    }
+  ],
+  "signature": "qYnkcptL2nBOcbKzy2nSjlhzocX8Sb9ZWNAHACZDH2M="
+}

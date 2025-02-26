@@ -1,0 +1,44 @@
+{
+  "name": "Xoloitzcuintli",
+  "description": "NFT named Xoloitzcuintli. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 7,548. Health: 1,389. Attack: 1,675. Sats: 59,406. Size: 1,010. E40: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,548"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,389"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,675"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "59,406"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,010"
+    },
+    {
+      "trait_type": "E40"
+    }
+  ],
+  "signature": "JbkAotGNZbvyUM/qiG6Q3tpwCNPm8RwwsXvLdBFQGRs="
+}

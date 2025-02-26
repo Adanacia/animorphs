@@ -1,0 +1,44 @@
+{
+  "name": "Brussels_Griffon",
+  "description": "NFT named Brussels_Griffon. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 6,024. Health: 1,213. Attack: 1,430. Sats: 116,505. Size: 412. E6: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,024"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,213"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,430"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "116,505"
+    },
+    {
+      "trait_type": "Size",
+      "value": "412"
+    },
+    {
+      "trait_type": "E6"
+    }
+  ],
+  "signature": "mML9qtSLdBrmnzT82/dGPfFsJC+nM0M/rH48TBzP3EE="
+}
