@@ -1,0 +1,44 @@
+{
+  "name": "Snow_Petrel",
+  "description": "NFT named Snow_Petrel. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 8,755. Health: 1,830. Attack: 1,475. Sats: 35,006. Size: 1,714. I30: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,755"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,830"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,475"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "35,006"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,714"
+    },
+    {
+      "trait_type": "I30"
+    }
+  ],
+  "signature": "xGUmuIBxqhpjFVXP7LDx+8sdVjEK/iwe9+Z+IBma31M="
+}

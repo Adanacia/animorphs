@@ -1,0 +1,44 @@
+{
+  "name": "Snowy_Owl",
+  "description": "NFT named Snowy_Owl. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 11,287. Health: 1,824. Attack: 2,440. Sats: 197,044. Size: 1,218. I33: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "11,287"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,824"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,440"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "197,044"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,218"
+    },
+    {
+      "trait_type": "I33"
+    }
+  ],
+  "signature": "y+71TbycaEqFjhSa7VIuduYSMxVcofKl9swaXLktM7I="
+}

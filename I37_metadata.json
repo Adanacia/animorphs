@@ -1,0 +1,44 @@
+{
+  "name": "Walrus",
+  "description": "NFT named Walrus. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 17,571. Health: 2,277. Attack: 3,743. Sats: 21,811. Size: 4,814. I37: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "17,571"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,277"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "3,743"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "21,811"
+    },
+    {
+      "trait_type": "Size",
+      "value": "4,814"
+    },
+    {
+      "trait_type": "I37"
+    }
+  ],
+  "signature": "V8JPhtvuDtgfFI1dpxfRGfaoXQn7k8yLV/HcSXnkdL0="
+}

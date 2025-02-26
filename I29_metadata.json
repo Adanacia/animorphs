@@ -1,0 +1,44 @@
+{
+  "name": "Snow_Leopard",
+  "description": "NFT named Snow_Leopard. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 13,574. Health: 1,718. Attack: 2,643. Sats: 53,127. Size: 3,614. I29: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "13,574"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,718"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,643"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "53,127"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,614"
+    },
+    {
+      "trait_type": "I29"
+    }
+  ],
+  "signature": "nPMYUWu+FRtl6uXLhARRBnj4gWbI6lW2IXKNtnT92HI="
+}

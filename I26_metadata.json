@@ -1,0 +1,44 @@
+{
+  "name": "Seal",
+  "description": "NFT named Seal. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 11,926. Health: 1,930. Attack: 2,038. Sats: 23,657. Size: 3,424. I26: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "11,926"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,930"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,038"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "23,657"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,424"
+    },
+    {
+      "trait_type": "I26"
+    }
+  ],
+  "signature": "HiXGeBqiDlp0m1GmgGC8LEQfF2E8Vk++5O3LW+h67qA="
+}

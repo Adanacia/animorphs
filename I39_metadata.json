@@ -1,0 +1,41 @@
+{
+  "name": "Arctic_Ground_squirrel",
+  "description": "NFT named Arctic_Ground_squirrel. Animorph: undefined. Type: Ice. Power: undefined. Rating: 6,647. Health: 1,095. Attack: 1,595. Sats: 90,000. Size: 800. I39: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,647"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,095"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,595"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "90,000"
+    },
+    {
+      "trait_type": "Size",
+      "value": "800"
+    },
+    {
+      "trait_type": "I39"
+    }
+  ],
+  "signature": "kNgX4S0npV2I2z1MKhS/XKN5Bn04CGMAV5R+4l3yAso="
+}

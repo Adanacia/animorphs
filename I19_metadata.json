@@ -1,0 +1,44 @@
+{
+  "name": "Narwhal",
+  "description": "NFT named Narwhal. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 25,906. Health: 3,260. Attack: 4,845. Sats: 9,984. Size: 9,014. I19: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "25,906"
+    },
+    {
+      "trait_type": "Health",
+      "value": "3,260"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "4,845"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "9,984"
+    },
+    {
+      "trait_type": "Size",
+      "value": "9,014"
+    },
+    {
+      "trait_type": "I19"
+    }
+  ],
+  "signature": "d+A5FewmN54KZ1fh7cCRCGAdo0PtrgoTxPDwWisYZxg="
+}

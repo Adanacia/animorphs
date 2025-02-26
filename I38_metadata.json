@@ -1,0 +1,44 @@
+{
+  "name": "Wolverine",
+  "description": "NFT named Wolverine. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 10,386. Health: 1,383. Attack: 2,443. Sats: 79,558. Size: 1,810. I38: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "10,386"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,383"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,443"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "79,558"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,810"
+    },
+    {
+      "trait_type": "I38"
+    }
+  ],
+  "signature": "lrwwbvYijltnWwv+8V2JWFMGU72PAX/dnw5sIx8y8Rs="
+}

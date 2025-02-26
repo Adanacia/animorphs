@@ -1,0 +1,44 @@
+{
+  "name": "Beluga_Whale",
+  "description": "NFT named Beluga_Whale. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 24,941. Health: 2,671. Attack: 4,845. Sats: 7,014. Size: 9,410. I10: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "24,941"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,671"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "4,845"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "7,014"
+    },
+    {
+      "trait_type": "Size",
+      "value": "9,410"
+    },
+    {
+      "trait_type": "I10"
+    }
+  ],
+  "signature": "xTznwghVubExgQwXRAtkxwIkQAMZVuysb/inZS0Rcz0="
+}

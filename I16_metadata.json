@@ -1,0 +1,44 @@
+{
+  "name": "Marten",
+  "description": "NFT named Marten. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 8,681. Health: 1,351. Attack: 2,038. Sats: 68,493. Size: 1,314. I16: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,681"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,351"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,038"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "68,493"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,314"
+    },
+    {
+      "trait_type": "I16"
+    }
+  ],
+  "signature": "yWgxhEgpc5Qr9R+9o3bdts+Hb5q1XFWbUtmihp3oB4w="
+}

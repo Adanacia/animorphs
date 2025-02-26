@@ -1,0 +1,44 @@
+{
+  "name": "Ermine",
+  "description": "NFT named Ermine. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 5,948. Health: 1,045. Attack: 1,595. Sats: 64,655. Size: 464. I12: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "5,948"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,045"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,595"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "64,655"
+    },
+    {
+      "trait_type": "Size",
+      "value": "464"
+    },
+    {
+      "trait_type": "I12"
+    }
+  ],
+  "signature": "4vfkcwM1+G4CEiubv7VDr4TLMKkdRFa5MGjjgit7Vso="
+}

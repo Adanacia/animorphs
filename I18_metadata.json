@@ -1,0 +1,44 @@
+{
+  "name": "Musk_Ox",
+  "description": "NFT named Musk_Ox. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 15,742. Health: 1,836. Attack: 2,943. Sats: 35,871. Size: 5,018. I18: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "15,742"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,836"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,943"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "35,871"
+    },
+    {
+      "trait_type": "Size",
+      "value": "5,018"
+    },
+    {
+      "trait_type": "I18"
+    }
+  ],
+  "signature": "wveeIIqb7lzWJkjOU42o6GCLYVrdGl6UO4r3J7xgs3c="
+}

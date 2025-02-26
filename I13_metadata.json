@@ -1,0 +1,44 @@
+{
+  "name": "Fur_Seal",
+  "description": "NFT named Fur_Seal. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 10,917. Health: 1,636. Attack: 2,040. Sats: 26,839. Size: 3,018. I13: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "10,917"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,636"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,040"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "26,839"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,018"
+    },
+    {
+      "trait_type": "I13"
+    }
+  ],
+  "signature": "U2BfOtSd5j+2uwI5PmQmJWkZN4pMLCr4OBK6jc3cV8E="
+}

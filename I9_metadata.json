@@ -1,0 +1,44 @@
+{
+  "name": "Arctic_Wolf",
+  "description": "NFT named Arctic_Wolf. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 12,936. Health: 1,495. Attack: 2,555. Sats: 53,068. Size: 3,618. I9: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "12,936"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,495"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,555"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "53,068"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,618"
+    },
+    {
+      "trait_type": "I9"
+    }
+  ],
+  "signature": "sUZoQvFyhGwfWcxm6a/53gksgbrWE3cu0Y+PzyF3vuU="
+}

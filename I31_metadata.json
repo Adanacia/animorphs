@@ -1,0 +1,44 @@
+{
+  "name": "Snowshoe_Hare",
+  "description": "NFT named Snowshoe_Hare. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 7,011. Health: 998. Attack: 1,495. Sats: 128,801. Size: 1,118. I31: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,011"
+    },
+    {
+      "trait_type": "Health",
+      "value": "998"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,495"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "128,801"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,118"
+    },
+    {
+      "trait_type": "I31"
+    }
+  ],
+  "signature": "+5H6rmZ2wWHmTBzzM40mLoGyJywprMJ5awfixhD4C7U="
+}

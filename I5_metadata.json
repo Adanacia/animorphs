@@ -1,0 +1,44 @@
+{
+  "name": "Arctic_Loon",
+  "description": "NFT named Arctic_Loon. : undefined. Animorph: undefined. Type: Ice. Power: undefined. Rating: 8,331. Health: 1,389. Attack: 1,555. Sats: 52,922. Size: 1,814. I5: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,331"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,389"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,555"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "52,922"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,814"
+    },
+    {
+      "trait_type": "I5"
+    }
+  ],
+  "signature": "YYeTtTXJXFLNIKwn9hYuB9Cdot8kJ1uom3zLs/Mnw7U="
+}
