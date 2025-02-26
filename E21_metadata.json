@@ -1,0 +1,44 @@
+{
+  "name": "Kangaroo",
+  "description": "NFT named Kangaroo. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 12,917. Health: 1,889. Attack: 2,290. Sats: 65,258. Size: 3,218. E21: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "12,917"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,889"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,290"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "65,258"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,218"
+    },
+    {
+      "trait_type": "E21"
+    }
+  ],
+  "signature": "5PndMkIzSMpw4jpcMwQjdaGJnlAtcmTBRkLWR/thFvY="
+}

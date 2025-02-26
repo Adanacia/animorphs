@@ -1,0 +1,44 @@
+{
+  "name": "Glowworm",
+  "description": "NFT named Glowworm. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 2,803. Health: 330. Attack: 1,027. Sats: 698. Size: 86. E17: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "2,803"
+    },
+    {
+      "trait_type": "Health",
+      "value": "330"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,027"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "698"
+    },
+    {
+      "trait_type": "Size",
+      "value": "86"
+    },
+    {
+      "trait_type": "E17"
+    }
+  ],
+  "signature": "0BRtBdxr1HC1hJwIKxtKetKgkyJpAtVMCG2xmk5FYYs="
+}

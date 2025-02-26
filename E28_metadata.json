@@ -1,0 +1,44 @@
+{
+  "name": "Peacock",
+  "description": "NFT named Peacock. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 8,297. Health: 1,439. Attack: 1,433. Sats: 21,641. Size: 2,218. E28: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,297"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,439"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,433"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "21,641"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,218"
+    },
+    {
+      "trait_type": "E28"
+    }
+  ],
+  "signature": "c6nGqKSyxUGC3wdAS00bIML/ZU0T4ZgHvE0jSiArqkA="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Chinese_Crested",
+  "description": "NFT named Chinese_Crested. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 6,191. Health: 1,192. Attack: 1,430. Sats: 77,670. Size: 618. E10: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,191"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,192"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,430"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "77,670"
+    },
+    {
+      "trait_type": "Size",
+      "value": "618"
+    },
+    {
+      "trait_type": "E10"
+    }
+  ],
+  "signature": "SaFEoPj6qB4hafN7UKuFneWSmpN44UnjbWofDkBK614="
+}

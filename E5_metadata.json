@@ -1,0 +1,44 @@
+{
+  "name": "Boerboel",
+  "description": "NFT named Boerboel. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 9,275. Health: 1,254. Attack: 2,438. Sats: 50,704. Size: 1420. E5: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,275"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,254"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,438"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "50,704"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1420"
+    },
+    {
+      "trait_type": "E5"
+    }
+  ],
+  "signature": "fqtvnzuSu4x5a0jUCu/JZ+CCdVMpfPS8IqbxO3/yAT4="
+}

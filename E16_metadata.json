@@ -1,0 +1,44 @@
+{
+  "name": "Giraffe",
+  "description": "NFT named Giraffe. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 21,316. Health: 2,124. Attack: 1,935. Sats: 14,978. Size: 12,018. E16: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "21,316"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,124"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,935"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "14,978"
+    },
+    {
+      "trait_type": "Size",
+      "value": "12,018"
+    },
+    {
+      "trait_type": "E16"
+    }
+  ],
+  "signature": "RF9G93oFMaHAUWTX/0Yst+IETRLxyEihQb1S2rALhIA="
+}

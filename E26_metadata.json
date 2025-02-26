@@ -1,0 +1,44 @@
+{
+  "name": "Norfolk_Terrier",
+  "description": "NFT named Norfolk_Terrier. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 6,626. Health: 1,242. Attack: 1,573. Sats: 138,996. Size: 518. E26: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,626"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,242"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,573"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "138,996"
+    },
+    {
+      "trait_type": "Size",
+      "value": "518"
+    },
+    {
+      "trait_type": "E26"
+    }
+  ],
+  "signature": "xF6FYFjzrfHSc7NrnPl96CGpxYGYa58ykU8UKj137gY="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Sewer_rat",
+  "description": "NFT named Sewer_rat. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 6,221. Health: 839. Attack: 1,940. Sats: 94,203. Size: 414. E36: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,221"
+    },
+    {
+      "trait_type": "Health",
+      "value": "839"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,940"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "94,203"
+    },
+    {
+      "trait_type": "Size",
+      "value": "414"
+    },
+    {
+      "trait_type": "E36"
+    }
+  ],
+  "signature": "L1VeN1y//g5WZRQfXJd12b8czTQu2WEOVoehhX4pUso="
+}

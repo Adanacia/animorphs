@@ -1,0 +1,44 @@
+{
+  "name": "Silver_Fox",
+  "description": "NFT named Silver_Fox. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 9,339. Health: 1,295. Attack: 1,785. Sats: 119,074. Size: 1,814. E33: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,339"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,295"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,785"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "119,074"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,814"
+    },
+    {
+      "trait_type": "E33"
+    }
+  ],
+  "signature": "Z7yB7lgQKQ++gJz9w8ATKc7QRK2mWpxM23gSVm5XEe8="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Pomeranian",
+  "description": "NFT named Pomeranian. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 6,127. Health: 1,221. Attack: 1,390. Sats: 83,624. Size: 574. E30: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,127"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,221"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,390"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "83,624"
+    },
+    {
+      "trait_type": "Size",
+      "value": "574"
+    },
+    {
+      "trait_type": "E30"
+    }
+  ],
+  "signature": "d4Ppb29ZucxTosRuH9Vm/n324QdcpcJoj+AyOyjEt9M="
+}

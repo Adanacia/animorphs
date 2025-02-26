@@ -1,0 +1,44 @@
+{
+  "name": "Scorpion",
+  "description": "NFT named Scorpion. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 5,316. Health: 936. Attack: 1,495. Sats: 168,224. Size: 214. E35: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "5,316"
+    },
+    {
+      "trait_type": "Health",
+      "value": "936"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,495"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "168,224"
+    },
+    {
+      "trait_type": "Size",
+      "value": "214"
+    },
+    {
+      "trait_type": "E35"
+    }
+  ],
+  "signature": "0+dS0kGHKFmziPfAWdqtizVN4prlZiKEZ3jXVQolrEY="
+}

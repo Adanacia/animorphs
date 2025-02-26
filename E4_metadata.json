@@ -1,0 +1,44 @@
+{
+  "name": "Black_Widow_Spider",
+  "description": "NFT named Black_Widow_Spider. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 4,808. Health: 689. Attack: 1,680. Sats: 141,176. Size: 34. E4: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "4,808"
+    },
+    {
+      "trait_type": "Health",
+      "value": "689"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,680"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "141,176"
+    },
+    {
+      "trait_type": "Size",
+      "value": "34"
+    },
+    {
+      "trait_type": "E4"
+    }
+  ],
+  "signature": "S+NAoD9ndj3pcvuuAKfudS2lG8GE9TAlrfBHEFTlVyI="
+}

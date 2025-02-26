@@ -1,0 +1,44 @@
+{
+  "name": "Jack_Russell_Terrier",
+  "description": "NFT named Jack_Russell_Terrier. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 7,129. Health: 1,321. Attack: 1,735. Sats: 144,788. Size: 518. E20: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,129"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,321"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,735"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "144,788"
+    },
+    {
+      "trait_type": "Size",
+      "value": "518"
+    },
+    {
+      "trait_type": "E20"
+    }
+  ],
+  "signature": "lDA2CbLNLuz9tNMro1whHSdMv+OBbTzFsUbBnHoUSb4="
+}

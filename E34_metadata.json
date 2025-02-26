@@ -1,0 +1,44 @@
+{
+  "name": "Red_Panda",
+  "description": "NFT named Red_Panda. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 7,786. Health: 1,263. Attack: 1,835. Sats: 64,401. Size: 1,118. E34: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,786"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,263"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,835"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "64,401"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,118"
+    },
+    {
+      "trait_type": "E34"
+    }
+  ],
+  "signature": "A6WB+9Kkd0IcvFTGH46UH90HfVJbCgJjomNrOAZ8kPc="
+}

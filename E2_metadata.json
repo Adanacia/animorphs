@@ -1,0 +1,44 @@
+{
+  "name": "Axolotl",
+  "description": "NFT named Axolotl. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 6863. Health: 989. Attack: 1363. Sats: 402,318. Size: 604. E2: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6863"
+    },
+    {
+      "trait_type": "Health",
+      "value": "989"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1363"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "402,318"
+    },
+    {
+      "trait_type": "Size",
+      "value": "604"
+    },
+    {
+      "trait_type": "E2"
+    }
+  ],
+  "signature": "2whIegYxXNc/UrmbqDDl9TZFeolII5WIvTUfuigeYu4="
+}

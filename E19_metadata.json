@@ -1,0 +1,44 @@
+{
+  "name": "Italian_Greyhound",
+  "description": "NFT named Italian_Greyhound. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 7,441. Health: 1,342. Attack: 1,633. Sats: 168,067. Size: 714. E19: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,441"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,342"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,633"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "168,067"
+    },
+    {
+      "trait_type": "Size",
+      "value": "714"
+    },
+    {
+      "trait_type": "E19"
+    }
+  ],
+  "signature": "pR+rUI8WL0VNn+777nL/szar3NBLqeF5nmTf7FwFrrg="
+}

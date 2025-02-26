@@ -1,0 +1,44 @@
+{
+  "name": "Platypus",
+  "description": "NFT named Platypus. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 7,860. Health: 1,518. Attack: 1,555. Sats: 103,143. Size: 1,018. E29: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,860"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,518"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,555"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "103,143"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,018"
+    },
+    {
+      "trait_type": "E29"
+    }
+  ],
+  "signature": "KKsu4jgNnCUPy6AxjjiRSRWGI9eP53YujxLoUxSEd1s="
+}

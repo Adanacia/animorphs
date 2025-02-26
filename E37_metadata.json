@@ -1,0 +1,44 @@
+{
+  "name": "Tiger",
+  "description": "NFT named Tiger. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 18,246. Health: 1,936. Attack: 3,843. Sats: 35,925. Size: 5,428. E37: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "18,246"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,936"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "3,843"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "35,925"
+    },
+    {
+      "trait_type": "Size",
+      "value": "5,428"
+    },
+    {
+      "trait_type": "E37"
+    }
+  ],
+  "signature": "4AqTlkkuuz9kPZVzKNR+TfMxQ1cU6ez0/l6FZHhJrB4="
+}

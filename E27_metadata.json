@@ -1,0 +1,44 @@
+{
+  "name": "Pangolin",
+  "description": "NFT named Pangolin. : undefined. Animorph: undefined. Type: Electric. Power: undefined. Rating: 13,204. Health: 1,683. Attack: 1,838. Sats: 7,411. Size: 2,024. E27: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "13,204"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,683"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,838"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "7,411"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,024"
+    },
+    {
+      "trait_type": "E27"
+    }
+  ],
+  "signature": "aGCjwa9sn6kYtn7JPtQiAqVskKdbz5iKmlVY+prMEmk="
+}
