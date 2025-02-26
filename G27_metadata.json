@@ -1,0 +1,44 @@
+{
+  "name": "Mangalica_Pig",
+  "description": "NFT named Mangalica_Pig. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 13,384. Health: 1,389. Attack: 1,735. Sats: 17,033. Size: 2,818. G27: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "13,384"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,389"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,735"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "17,033"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,818"
+    },
+    {
+      "trait_type": "G27"
+    }
+  ],
+  "signature": "OY8jVfAxABn8cRR9UTBWisNgs2Vb2615qY4VIVWXgSU="
+}

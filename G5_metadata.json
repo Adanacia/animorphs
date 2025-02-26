@@ -1,0 +1,44 @@
+{
+  "name": "Binturong",
+  "description": "NFT named Binturong. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 9,476. Health: 1,436. Attack: 1,650. Sats: 25,623. Size: 2,810. G5: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,476"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,436"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,650"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "25,623"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,810"
+    },
+    {
+      "trait_type": "G5"
+    }
+  ],
+  "signature": "Z6Mj734TjDCr4HA9iNTXGy3eI4G1DObrZm3lkyVNngw="
+}

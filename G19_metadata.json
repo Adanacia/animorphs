@@ -1,0 +1,44 @@
+{
+  "name": "Gibbons",
+  "description": "NFT named Gibbons. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 12,166. Health: 2,277. Attack: 2,640. Sats: 138,843. Size: 1210. G19: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "12,166"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,277"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,640"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "138,843"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1210"
+    },
+    {
+      "trait_type": "G19"
+    }
+  ],
+  "signature": "bGtbGgPJ5q85+FfU8R5g73V/BYqq5i0sJTqNyUVhN4I="
+}

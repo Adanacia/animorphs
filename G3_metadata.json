@@ -1,0 +1,44 @@
+{
+  "name": "Aye-aye",
+  "description": "NFT named Aye-aye. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 8,104. Health: 1,586. Attack: 1,733. Sats: 117,359. Size: 818. G3: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,104"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,586"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,733"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "117,359"
+    },
+    {
+      "trait_type": "Size",
+      "value": "818"
+    },
+    {
+      "trait_type": "G3"
+    }
+  ],
+  "signature": "8DN2pDVmUm81qj8FH+fzCC4n7G2fwCXs3Ydx0pTuCmg="
+}

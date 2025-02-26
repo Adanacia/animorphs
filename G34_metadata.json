@@ -1,0 +1,44 @@
+{
+  "name": "Sloth",
+  "description": "NFT named Sloth. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 7,071. Health: 1,583. Attack: 1,320. Sats: 669. Size: 1210. G34: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,071"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,583"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,320"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "669"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1210"
+    },
+    {
+      "trait_type": "G34"
+    }
+  ],
+  "signature": "hMMgaUGJ1CA4xdN6oXqSllBsEB69AK9GNHGM5EBTGFQ="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Rhinoceros",
+  "description": "NFT named Rhinoceros. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 20,072. Health: 2,671. Attack: 3,845. Sats: 24,958. Size: 6,010. G32: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "20,072"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,671"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "3,845"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "24,958"
+    },
+    {
+      "trait_type": "Size",
+      "value": "6,010"
+    },
+    {
+      "trait_type": "G32"
+    }
+  ],
+  "signature": "xkLS5jHEy196qiHWKDRZDroWya9xlRBE5ff8+kT3pzQ="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Beagle",
+  "description": "NFT named Beagle. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 8,100. Health: 1,421. Attack: 1,905. Sats: 117,359. Size: 818. G4: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,100"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,421"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,905"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "117,359"
+    },
+    {
+      "trait_type": "Size",
+      "value": "818"
+    },
+    {
+      "trait_type": "G4"
+    }
+  ],
+  "signature": "EbBnXdKVLzQZkNm1Q3ADu3SAf/kvynWMc+qrK4A5nS8="
+}

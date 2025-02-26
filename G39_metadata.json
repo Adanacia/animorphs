@@ -1,0 +1,44 @@
+{
+  "name": "Dung_Beetle",
+  "description": "NFT named Dung_Beetle. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 4,567. Health: 798. Attack: 1,445. Sats: 23,438. Size: 64. G39: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "4,567"
+    },
+    {
+      "trait_type": "Health",
+      "value": "798"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,445"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "23,438"
+    },
+    {
+      "trait_type": "Size",
+      "value": "64"
+    },
+    {
+      "trait_type": "G39"
+    }
+  ],
+  "signature": "FS/VTGLwS1XfeW0ZQ8Y+JMGvTBgPOB9K8kqOZAWLui0="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Wild_Boar",
+  "description": "NFT named Wild_Boar. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 10,254. Health: 1,392. Attack: 2,040. Sats: 45,907. Size: 2,614. G38: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "10,254"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,392"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,040"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "45,907"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,614"
+    },
+    {
+      "trait_type": "G38"
+    }
+  ],
+  "signature": "kvt4Zsfoudw95DOfmcmQepTgmwW0wGR2sgcwXbxGJFQ="
+}

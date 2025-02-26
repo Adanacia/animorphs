@@ -1,0 +1,44 @@
+{
+  "name": "Tortoise",
+  "description": "NFT named Tortoise. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 16,684. Health: 5,512. Attack: 2,245. Sats: 985. Size: 914. G37: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "16,684"
+    },
+    {
+      "trait_type": "Health",
+      "value": "5,512"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,245"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "985"
+    },
+    {
+      "trait_type": "Size",
+      "value": "914"
+    },
+    {
+      "trait_type": "G37"
+    }
+  ],
+  "signature": "ox3ircCHDpN2aOCtypqOZ0rXlBvBs996GygKUPU9lfY="
+}

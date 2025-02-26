@@ -1,0 +1,44 @@
+{
+  "name": "Rottweiler",
+  "description": "NFT named Rottweiler. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 9,452. Health: 1,363. Attack: 2,194. Sats: 101,839. Size: 1,414. G33: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,452"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,363"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,194"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "101,839"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,414"
+    },
+    {
+      "trait_type": "G33"
+    }
+  ],
+  "signature": "cT6e9CzSYGXfJKvsRhqrlKrzqPNbO+P2muAdJ8czMF4="
+}

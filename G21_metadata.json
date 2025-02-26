@@ -1,0 +1,44 @@
+{
+  "name": "Golden_Retriever",
+  "description": "NFT named Golden_Retriever. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 8,780. Health: 1,304. Attack: 1,918. Sats: 101,839. Size: 1,414. G21: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,780"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,304"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,918"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "101,839"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,414"
+    },
+    {
+      "trait_type": "G21"
+    }
+  ],
+  "signature": "TLC/SivhFHhe0S2ULwk7y2glkWzqWsWRK9d4pT8+t88="
+}

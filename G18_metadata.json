@@ -1,0 +1,44 @@
+{
+  "name": "German_Shorhaired_Pointer",
+  "description": "NFT named German_Shorhaired_Pointer. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 9,109. Health: 1,421. Attack: 1,998. Sats: 136,364. Size: 1,210. G18: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,109"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,421"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,998"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "136,364"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,210"
+    },
+    {
+      "trait_type": "G18"
+    }
+  ],
+  "signature": "wxzPwLqW//8/hqtrh8f6wgmIs3C/v7Kvk62S/QAdmac="
+}

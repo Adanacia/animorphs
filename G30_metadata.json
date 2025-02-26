@@ -1,0 +1,44 @@
+{
+  "name": "Poodle",
+  "description": "NFT named Poodle. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 7,952. Health: 1,380. Attack: 1,825. Sats: 236,066. Size: 610. G30: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,952"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,380"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,825"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "236,066"
+    },
+    {
+      "trait_type": "Size",
+      "value": "610"
+    },
+    {
+      "trait_type": "G30"
+    }
+  ],
+  "signature": "4hF014BysCS/GR4dzOrubZFdyxLH+nmPTD4BCK2Yfl4="
+}

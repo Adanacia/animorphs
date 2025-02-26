@@ -1,0 +1,44 @@
+{
+  "name": "Bonobo",
+  "description": "NFT named Bonobo. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 12,176. Health: 2,571. Attack: 2,318. Sats: 32,462. Size: 2,218. G10: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "12,176"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,571"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,318"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "32,462"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,218"
+    },
+    {
+      "trait_type": "G10"
+    }
+  ],
+  "signature": "lyeqgIFN8tfxYxQd1cXRpJb2xjemFangFjQLOQ8sREg="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Capybara",
+  "description": "NFT named Capybara. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 9,261. Health: 1,154. Attack: 1,835. Sats: 40,292. Size: 2,606. G13: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,261"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,154"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,835"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "40,292"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,606"
+    },
+    {
+      "trait_type": "G13"
+    }
+  ],
+  "signature": "bUdSNSW2J5c2zKLfHlk+o2/MXZEYf0SWadJPC3oIm2E="
+}

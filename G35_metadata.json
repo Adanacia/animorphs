@@ -1,0 +1,44 @@
+{
+  "name": "Tarantula",
+  "description": "NFT named Tarantula. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 6,540. Health: 1,633. Attack: 1,593. Sats: 165,138. Size: 218. G35: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,540"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,633"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,593"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "165,138"
+    },
+    {
+      "trait_type": "Size",
+      "value": "218"
+    },
+    {
+      "trait_type": "G35"
+    }
+  ],
+  "signature": "pOpFvetSqd6nAG03v0eYDkGt+TcHzBDHOeGAfU+2idA="
+}

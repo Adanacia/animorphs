@@ -1,0 +1,44 @@
+{
+  "name": "Gila_Monster",
+  "description": "NFT named Gila_Monster. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 7,541. Health: 1,683. Attack: 1,535. Sats: 7,129. Size: 1,010. G20: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,541"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,683"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,535"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "7,129"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,010"
+    },
+    {
+      "trait_type": "G20"
+    }
+  ],
+  "signature": "ZRQMzM8bRtLl+533pklIpyVumugNnV81z0d2BpdCc5I="
+}

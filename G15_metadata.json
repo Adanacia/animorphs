@@ -1,0 +1,44 @@
+{
+  "name": "Dachshund",
+  "description": "NFT named Dachshund. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 7,131. Health: 1,321. Attack: 1,573. Sats: 134,454. Size: 714. G15: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,131"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,321"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,573"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "134,454"
+    },
+    {
+      "trait_type": "Size",
+      "value": "714"
+    },
+    {
+      "trait_type": "G15"
+    }
+  ],
+  "signature": "a1Cg5LpRqoM1BX2hAT7gdloxPPCHAJKIam1v1VADA9A="
+}
