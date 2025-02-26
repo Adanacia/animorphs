@@ -1,0 +1,51 @@
+{
+  "name": "African",
+  "description": "NFT named African. Pygmy: undefined. Hedgehog: undefined. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 7,982. Health: 748. Attack: 2,957. Sats: 39,823. Size: 452. Sku: F3. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": "Pygmy"
+    },
+    {
+      "trait_type": "Hedgehog"
+    },
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,982"
+    },
+    {
+      "trait_type": "Health",
+      "value": "748"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,957"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "39,823"
+    },
+    {
+      "trait_type": "Size",
+      "value": "452"
+    },
+    {
+      "trait_type": "Sku",
+      "value": "F3"
+    }
+  ],
+  "signature": "I6+4XnC3pio2TmNfQwt9Y1Ih80fCZ7ax1VULUxtcu7c="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Jaguar",
+  "description": "NFT named Jaguar. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 17,533. Health: 1,442. Attack: 4,743. Sats: 67,201. Size: 3,616. F19: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "17,533"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,442"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "4,743"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "67,201"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,616"
+    },
+    {
+      "trait_type": "F19"
+    }
+  ],
+  "signature": "4FWEPLCvxB6LXuhcuUxVEqwaJzGv69KZQU7cn4g4Y4k="
+}

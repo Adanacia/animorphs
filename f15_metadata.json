@@ -1,0 +1,44 @@
+{
+  "name": "Havanese",
+  "description": "NFT named Havanese. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 6,437. Health: 1,271. Attack: 1,430. Sats: 103,279. Size: 610. F15: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,437"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,271"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,430"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "103,279"
+    },
+    {
+      "trait_type": "Size",
+      "value": "610"
+    },
+    {
+      "trait_type": "F15"
+    }
+  ],
+  "signature": "V6V1aDVUe3IgLg4vHhm72I3W4BVLuVrxunBqb4Y0A5k="
+}

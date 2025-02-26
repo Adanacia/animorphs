@@ -1,0 +1,44 @@
+{
+  "name": "Salamander",
+  "description": "NFT named Salamander. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 6,641. Health: 1,436. Attack: 1,393. Sats: 77,922. Size: 616. F34: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,641"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,436"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,393"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "77,922"
+    },
+    {
+      "trait_type": "Size",
+      "value": "616"
+    },
+    {
+      "trait_type": "F34"
+    }
+  ],
+  "signature": "LnZE4nRc84njEgn2eNrJAdQf3hSUMAIr4qJGfoUvmm0="
+}

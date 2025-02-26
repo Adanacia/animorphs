@@ -1,0 +1,44 @@
+{
+  "name": "Doberman_Pinscher",
+  "description": "NFT named Doberman_Pinscher. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 9,170. Health: 1,383. Attack: 2,045. Sats: 107,299. Size: 1,370. F9: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,170"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,383"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,045"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "107,299"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,370"
+    },
+    {
+      "trait_type": "F9"
+    }
+  ],
+  "signature": "eG2Q9AntcVyFLLoXISPH1/TqOb5yJUFeeKbC8XH58tM="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Yorkshire_Terrier",
+  "description": "NFT named Yorkshire_Terrier. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 6,506. Health: 1,271. Attack: 1,573. Sats: 14,4928. Size: 414. F40: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,506"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,271"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,573"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "14,4928"
+    },
+    {
+      "trait_type": "Size",
+      "value": "414"
+    },
+    {
+      "trait_type": "F40"
+    }
+  ],
+  "signature": "p7U2y8BO8rGy905KlsiCW1UeQeXgptPJsPFb+KZ7rdw="
+}

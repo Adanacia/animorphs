@@ -1,0 +1,44 @@
+{
+  "name": "Bernese_Mountain_Dog",
+  "description": "NFT named Bernese_Mountain_Dog. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 8,403. Health: 1,195. Attack: 1,833. Sats: 42,354. Size: 1,842. F5: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,403"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,195"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,833"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "42,354"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,842"
+    },
+    {
+      "trait_type": "F5"
+    }
+  ],
+  "signature": "f3np7rUEfDbgdtaYPe8aLSfM57qKp8JKfc5+mkbml5M="
+}

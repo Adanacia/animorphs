@@ -1,0 +1,44 @@
+{
+  "name": "Electric_Eel",
+  "description": "NFT named Electric_Eel. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 11,193. Health: 1,548. Attack: 1,938. Sats: 6,723. Size: 4,016. F10: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "11,193"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,548"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,938"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "6,723"
+    },
+    {
+      "trait_type": "Size",
+      "value": "4,016"
+    },
+    {
+      "trait_type": "F10"
+    }
+  ],
+  "signature": "wfj55jJWjP550/jaoMsWqzutO1xFEx8vgiLmaPFEtXE="
+}

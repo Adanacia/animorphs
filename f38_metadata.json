@@ -1,0 +1,44 @@
+{
+  "name": "Spotted_Hyena",
+  "description": "NFT named Spotted_Hyena. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 16,168. Health: 2,163. Attack: 3,943. Sats: 64,894. Size: 2,820. F38: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "16,168"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,163"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "3,943"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "64,894"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,820"
+    },
+    {
+      "trait_type": "F38"
+    }
+  ],
+  "signature": "v2w279WG/so+XogPnJo/Kr+vKT7pEIFwxsEwBzz9MRc="
+}

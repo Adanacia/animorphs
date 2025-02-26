@@ -1,0 +1,44 @@
+{
+  "name": "Shih_Tzu",
+  "description": "NFT named Shih_Tzu. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 6,182. Health: 1,221. Attack: 1,430. Sats: 87,273. Size: 550. F37: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,182"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,221"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,430"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "87,273"
+    },
+    {
+      "trait_type": "Size",
+      "value": "550"
+    },
+    {
+      "trait_type": "F37"
+    }
+  ],
+  "signature": "l5Ij/mRYIgcsg00XivhqI9GALEYne+qZLzfiKUTtL/4="
+}

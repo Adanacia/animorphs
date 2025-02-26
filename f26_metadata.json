@@ -1,0 +1,44 @@
+{
+  "name": "Numbat",
+  "description": "NFT named Numbat. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 6,381. Health: 1,124. Attack: 1,393. Sats: 13,045. Size: 712. F26: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,381"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,124"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,393"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "13,045"
+    },
+    {
+      "trait_type": "Size",
+      "value": "712"
+    },
+    {
+      "trait_type": "F26"
+    }
+  ],
+  "signature": "wtKP40MEulofGdWdhauvAHbs5yYF1BkIYG60tOEUAt4="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Quokka",
+  "description": "NFT named Quokka. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 7,065. Health: 1,292. Attack: 1,495. Sats: 58,769. Size: 1,072. F31: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,065"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,292"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,495"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "58,769"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,072"
+    },
+    {
+      "trait_type": "F31"
+    }
+  ],
+  "signature": "Iifx6zLZ4VCfJAMgrk0SFMeOz2SSFHylrOZdg/YSKis="
+}

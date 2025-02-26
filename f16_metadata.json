@@ -1,0 +1,44 @@
+{
+  "name": "Honey_Badger",
+  "description": "NFT named Honey_Badger. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 11,048. Health: 1,907. Attack: 2,508. Sats: 57,908. Size: 1,606. F16: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "11,048"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,907"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,508"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "57,908"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,606"
+    },
+    {
+      "trait_type": "F16"
+    }
+  ],
+  "signature": "BY3+bqZwLXeuHMHail2lemyipLTxmrFp6Vy6Mmze3nw="
+}

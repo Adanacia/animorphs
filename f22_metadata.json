@@ -1,0 +1,44 @@
+{
+  "name": "Mandrill",
+  "description": "NFT named Mandrill. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 11,272. Health: 1,686. Attack: 2,538. Sats: 61,194. Size: 2,010. F22: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "11,272"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,686"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,538"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "61,194"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,010"
+    },
+    {
+      "trait_type": "F22"
+    }
+  ],
+  "signature": "eY542UdntYr2UJM/nJ7po2duH097xZ5pF36YRTvyv6I="
+}

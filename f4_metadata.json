@@ -1,0 +1,45 @@
+{
+  "name": "Armadillo",
+  "description": "NFT named Armadillo. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 8,852. Health: 1,789. Attack: 1,575. Sats: 61,589. Size: 1,510. Sku: F4. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,852"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,789"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,575"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "61,589"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,510"
+    },
+    {
+      "trait_type": "Sku",
+      "value": "F4"
+    }
+  ],
+  "signature": "OJEl6h7rs7sOc0Fu8M/tthROx98dhWc25iMovzdKae4="
+}

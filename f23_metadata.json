@@ -1,0 +1,44 @@
+{
+  "name": "Marabou_Stork",
+  "description": "NFT named Marabou_Stork. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 10,982. Health: 2,107. Attack: 1,533. Sats: 30,432. Size: 3,056. F23: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "10,982"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,107"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,533"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "30,432"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,056"
+    },
+    {
+      "trait_type": "F23"
+    }
+  ],
+  "signature": "nsrOBEBMWvFqMFKgvoJwDjmCdfbP/CtiG1hrNJdTsGc="
+}

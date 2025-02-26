@@ -1,0 +1,44 @@
+{
+  "name": "Shetland_Sheepdog",
+  "description": "NFT named Shetland_Sheepdog. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 8,145. Health: 1,363. Attack: 1,895. Sats: 90,998. Size: 1,022. F36: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,145"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,363"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,895"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "90,998"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,022"
+    },
+    {
+      "trait_type": "F36"
+    }
+  ],
+  "signature": "jD2q9FBdncYFhuflnQFaqnEG8GJ1P+kG0tV3noFkPW4="
+}

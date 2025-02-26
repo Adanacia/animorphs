@@ -1,0 +1,44 @@
+{
+  "name": "Hottentot_Golden_Mole",
+  "description": "NFT named Hottentot_Golden_Mole. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 4,257. Health: 677. Attack: 1,290. Sats: 187,500. Size: 144. F17: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "4,257"
+    },
+    {
+      "trait_type": "Health",
+      "value": "677"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,290"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "187,500"
+    },
+    {
+      "trait_type": "Size",
+      "value": "144"
+    },
+    {
+      "trait_type": "F17"
+    }
+  ],
+  "signature": "DVW3qibOcjH20tbx8JJ0U7q3K3DkdZhZbGw2ZJA2ELI="
+}

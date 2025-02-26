@@ -1,0 +1,44 @@
+{
+  "name": "Orangutan",
+  "description": "NFT named Orangutan. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 8,558. Health: 1,233. Attack: 1,633. Sats: 26,141. Size: 2,410. F29: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,558"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,233"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,633"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "26,141"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,410"
+    },
+    {
+      "trait_type": "F29"
+    }
+  ],
+  "signature": "tQPJpjUP0Jd2Vm8ytOAybC1/56c1XLQFdLxC5Vrv30M="
+}

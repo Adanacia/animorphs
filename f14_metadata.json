@@ -1,0 +1,44 @@
+{
+  "name": "Great_Dane",
+  "description": "NFT named Great_Dane. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 8,223. Health: 1,095. Attack: 1,809. Sats: 51,211. Size: 1,816. F14: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,223"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,095"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,809"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "51,211"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,816"
+    },
+    {
+      "trait_type": "F14"
+    }
+  ],
+  "signature": "3GtUCydPG495oBCC4TgN8w7LSlX5BNaltzki7EIDCXw="
+}
