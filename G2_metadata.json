@@ -1,0 +1,44 @@
+{
+  "name": "Anteater",
+  "description": "NFT named Anteater. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 9,255. Health: 1,436. Attack: 1,290. Sats: 6,641. Size: 3,614. G2: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,255"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,436"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,290"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "6,641"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,614"
+    },
+    {
+      "trait_type": "G2"
+    }
+  ],
+  "signature": "oXsLNwk0iZKXo8KztfDcZWy6lq/sPZbCS+VtP66gFvE="
+}

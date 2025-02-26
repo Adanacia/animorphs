@@ -1,0 +1,44 @@
+{
+  "name": "Komodo_Dragon",
+  "description": "NFT named Komodo_Dragon. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 18,793. Health: 2,421. Attack: 3,743. Sats: 9,383. Size: 6,010. G25: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "18,793"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,421"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "3,743"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "9,383"
+    },
+    {
+      "trait_type": "Size",
+      "value": "6,010"
+    },
+    {
+      "trait_type": "G25"
+    }
+  ],
+  "signature": "vA3e+vZi/QQgSt96pk4aXup9H4MNnuaMbWwE/x0QDcE="
+}

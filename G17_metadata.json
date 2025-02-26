@@ -1,0 +1,44 @@
+{
+  "name": "German_Shepherd",
+  "description": "NFT named German_Shepherd. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 9,492. Health: 1,513. Attack: _2,014. Sats: 95,112. Size: 1,514. G17: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,492"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,513"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "_2,014"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "95,112"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,514"
+    },
+    {
+      "trait_type": "G17"
+    }
+  ],
+  "signature": "oL1ZwLuGtCYaGvg3WmwwR/mBrX6MtMHZHuM1tQsw4KQ="
+}

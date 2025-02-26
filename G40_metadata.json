@@ -1,0 +1,44 @@
+{
+  "name": "Fennec_Fox",
+  "description": "NFT named Fennec_Fox. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 6,769. Health: 1,154. Attack: 1,565. Sats: 135,211. Size: 710. G40: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,769"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,154"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,565"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "135,211"
+    },
+    {
+      "trait_type": "Size",
+      "value": "710"
+    },
+    {
+      "trait_type": "G40"
+    }
+  ],
+  "signature": "XP+u4+FZZKOZyca1QU0AMpj6miH0Sa0nYu3NDDWW89Y="
+}

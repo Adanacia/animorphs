@@ -1,0 +1,44 @@
+{
+  "name": "Blue_Wildebeest",
+  "description": "NFT named Blue_Wildebeest. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 14,504. Health: 2,136. Attack: 2,138. Sats: 54,422. Size: 4410. G8: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "14,504"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,136"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,138"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "54,422"
+    },
+    {
+      "trait_type": "Size",
+      "value": "4410"
+    },
+    {
+      "trait_type": "G8"
+    }
+  ],
+  "signature": "QkMF77Mhbi8NzImd/TNl/C2guNEwBaYBL3Cojg0ZloQ="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Okapi",
+  "description": "NFT named Okapi. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 14,027. Health: 1,883. Attack: 2,035. Sats: 35,899. Size: 5,014. G29: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "14,027"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,883"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,035"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "35,899"
+    },
+    {
+      "trait_type": "Size",
+      "value": "5,014"
+    },
+    {
+      "trait_type": "G29"
+    }
+  ],
+  "signature": "wzJo6z2eODb7qFJ2QY9QI2uAP9rZr/EaM+bUWWaaRoE="
+}

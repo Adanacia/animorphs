@@ -1,0 +1,44 @@
+{
+  "name": "Chameleon",
+  "description": "NFT named Chameleon. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 5,001. Health: 895. Attack: 1,390. Sats: 2,195. Size: 410. G14: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "5,001"
+    },
+    {
+      "trait_type": "Health",
+      "value": "895"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,390"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "2,195"
+    },
+    {
+      "trait_type": "Size",
+      "value": "410"
+    },
+    {
+      "trait_type": "G14"
+    }
+  ],
+  "signature": "rQ5jPV9papxvDC7dlS85D8QSg49XwgSDxn6T3qlmAPY="
+}

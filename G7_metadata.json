@@ -1,0 +1,44 @@
+{
+  "name": "Black-footed_ferret",
+  "description": "NFT named Black-footed_ferret. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 6,850. Health: 1,154. Attack: 1,533. Sats: 71,287. Size: 1,010. G7: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,850"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,154"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,533"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "71,287"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,010"
+    },
+    {
+      "trait_type": "G7"
+    }
+  ],
+  "signature": "OnnbJ7fXrRMgj7qSIsyvmGmzEeTeN8SfqPIddV2EvRY="
+}

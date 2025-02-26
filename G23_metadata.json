@@ -1,0 +1,44 @@
+{
+  "name": "Hedgehog",
+  "description": "NFT named Hedgehog. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 5,441. Health: 995. Attack: 1,270. Sats: 42,254. Size: 710. G23: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "5,441"
+    },
+    {
+      "trait_type": "Health",
+      "value": "995"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,270"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "42,254"
+    },
+    {
+      "trait_type": "Size",
+      "value": "710"
+    },
+    {
+      "trait_type": "G23"
+    }
+  ],
+  "signature": "6mM4lPgSWuotU13i3CZMZIdHmlQNtoPsN6RYvIE5eGQ="
+}

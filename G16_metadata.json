@@ -1,0 +1,44 @@
+{
+  "name": "Elephant_Shrew",
+  "description": "NFT named Elephant_Shrew. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 5,416. Health: 898. Attack: 1,330. Sats: 210,732. Size: 410. G16: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "5,416"
+    },
+    {
+      "trait_type": "Health",
+      "value": "898"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,330"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "210,732"
+    },
+    {
+      "trait_type": "Size",
+      "value": "410"
+    },
+    {
+      "trait_type": "G16"
+    }
+  ],
+  "signature": "YgqWqbpkLJz37Bf8Jq6LjGUMUdBr+vuyygUh04Yn1G4="
+}

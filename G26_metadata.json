@@ -1,0 +1,44 @@
+{
+  "name": "Labrador_Retriever",
+  "description": "NFT named Labrador_Retriever. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 10,154. Health: 1,313. Attack: 1,998. Sats: 55,257. Size: 2,606. G26: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "10,154"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,313"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,998"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "55,257"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,606"
+    },
+    {
+      "trait_type": "G26"
+    }
+  ],
+  "signature": "5+MSrzKtDZXNxErN08sQxPgwLwNbL5pPJf+54ZeHuv0="
+}

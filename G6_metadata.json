@@ -1,0 +1,44 @@
+{
+  "name": "Black_Rhino",
+  "description": "NFT named Black_Rhino. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 20,156. Health: 2,671. Attack: 3,845. Sats: 27,454. Size: 6,010. G6: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "20,156"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,671"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "3,845"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "27,454"
+    },
+    {
+      "trait_type": "Size",
+      "value": "6,010"
+    },
+    {
+      "trait_type": "G6"
+    }
+  ],
+  "signature": "MzZJbK/Dw0eiZhwSwAyH4Mv6w0VaO+1WhV3kersiP3U="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Bobcat",
+  "description": "NFT named Bobcat. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 11,361. Health: 1,471. Attack: 2,839. Sats: 79,383. Size: 1,814. G9: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "11,361"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,471"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,839"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "79,383"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,814"
+    },
+    {
+      "trait_type": "G9"
+    }
+  ],
+  "signature": "fm4FfQH9soYdSDzv4UuXysay0WNMLydedKc6EmDb3WI="
+}

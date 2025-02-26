@@ -1,0 +1,44 @@
+{
+  "name": "Bulldog",
+  "description": "NFT named Bulldog. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 7,462. Health: 1,045. Attack: 1,943. Sats: 70,727. Size: 1,018. G12: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,462"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,045"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,943"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "70,727"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,018"
+    },
+    {
+      "trait_type": "G12"
+    }
+  ],
+  "signature": "VHh/xM2TCYLpdJBlYn6VbUoiuFb6flquuJOcdjlqamg="
+}

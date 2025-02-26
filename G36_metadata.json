@@ -1,0 +1,44 @@
+{
+  "name": "Termite",
+  "description": "NFT named Termite. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 4,586. Health: 798. Attack: 1,439. Sats: 1,038. Size: 104. G36: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "4,586"
+    },
+    {
+      "trait_type": "Health",
+      "value": "798"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,439"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "1,038"
+    },
+    {
+      "trait_type": "Size",
+      "value": "104"
+    },
+    {
+      "trait_type": "G36"
+    }
+  ],
+  "signature": "ozGApXzueT6UqhtrGA061wCIeeQKswFwnIHgYBIySJ4="
+}

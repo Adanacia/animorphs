@@ -1,0 +1,44 @@
+{
+  "name": "Prairie_Dog",
+  "description": "NFT named Prairie_Dog. : undefined. Animorph: undefined. Type: Ground. Power: undefined. Rating: 6,834. Health: 1,036. Attack: 1,638. Sats: 128,362. Size: 818. G31: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,834"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,036"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,638"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "128,362"
+    },
+    {
+      "trait_type": "Size",
+      "value": "818"
+    },
+    {
+      "trait_type": "G31"
+    }
+  ],
+  "signature": "iApUXysuDxBL052Uy7sIMi061AZT7onMLo3ypz+vm5o="
+}
