@@ -1,0 +1,44 @@
+{
+  "name": "Langur",
+  "description": "NFT named Langur. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 8,941. Health: 1,636. Attack: 1,915. Sats: 76,733. Size: 1,212. F20: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "8,941"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,636"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,915"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "76,733"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,212"
+    },
+    {
+      "trait_type": "F20"
+    }
+  ],
+  "signature": "LnK09+fCOWCsfoAEhS/+suYTmH8P+lTvhlOOGSvenEw="
+}

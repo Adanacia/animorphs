@@ -1,0 +1,44 @@
+{
+  "name": "Lion-tailed_Macaque",
+  "description": "NFT named Lion-tailed_Macaque. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 9,087. Health: 1,733. Attack: 1,935. Sats: 64,356. Size: 1,212. F21: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,087"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,733"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,935"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "64,356"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,212"
+    },
+    {
+      "trait_type": "F21"
+    }
+  ],
+  "signature": "3wizqy5QeJ4p+ijM3/C+fDhPRnY1U0finKksXrMKRzw="
+}

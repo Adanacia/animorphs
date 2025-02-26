@@ -1,0 +1,44 @@
+{
+  "name": "Red_River_Hog",
+  "description": "NFT named Red_River_Hog. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 10,518. Health: 1,589. Attack: 1,938. Sats: 58,566. Size: 2,510. F32: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "10,518"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,589"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,938"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "58,566"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,510"
+    },
+    {
+      "trait_type": "F32"
+    }
+  ],
+  "signature": "UNaCrqDWnAd0L8l6AMyhfLkHpQ1cgwxsFNVe4wbwcEE="
+}

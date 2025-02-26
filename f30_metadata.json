@@ -1,0 +1,44 @@
+{
+  "name": "Przewalski's_Horse",
+  "description": "NFT named Przewalski's_Horse. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 14,886. Health: 2,360. Attack: 2,338. Sats: 46,318. Size: 4,210. F30: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "14,886"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,360"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,338"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "46,318"
+    },
+    {
+      "trait_type": "Size",
+      "value": "4,210"
+    },
+    {
+      "trait_type": "F30"
+    }
+  ],
+  "signature": "7PsJO2E0Nu8jXeqRZg+vN8SIgy2bSfYAu0jkrNfPPG0="
+}

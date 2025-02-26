@@ -1,0 +1,44 @@
+{
+  "name": "Cavalier_King_Charles_Spaniel",
+  "description": "NFT named Cavalier_King_Charles_Spaniel. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 6,301. Health: 1,163. Attack: 1,368. Sats: 52,402. Size: 916. F7: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,301"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,163"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,368"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "52,402"
+    },
+    {
+      "trait_type": "Size",
+      "value": "916"
+    },
+    {
+      "trait_type": "F7"
+    }
+  ],
+  "signature": "RgkxGLIZxDfbPHc3K4gmfArWix6u4LY+GhMGmGgNeXs="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Saiga_Antelope",
+  "description": "NFT named Saiga_Antelope. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 10,931. Health: 1,554. Attack: 1,835. Sats: 93,103. Size: 2,610. F33: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "10,931"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,554"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,835"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "93,103"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,610"
+    },
+    {
+      "trait_type": "F33"
+    }
+  ],
+  "signature": "baSX4ixfQOgnQZZJ3J85QhBI+faAk4Ez1i2Oou172aI="
+}

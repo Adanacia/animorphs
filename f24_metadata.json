@@ -1,0 +1,44 @@
+{
+  "name": "Marko_Polo_Sheep",
+  "description": "NFT named Marko_Polo_Sheep. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 9,373. Health: 1,442. Attack: 1,835. Sats: 42,081. Size: 2,210. F24: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,373"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,442"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,835"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "42,081"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,210"
+    },
+    {
+      "trait_type": "F24"
+    }
+  ],
+  "signature": "v8nvS9f2ThdU5Pz3yDm2O0o2r2+LaZPfeh47EghDU5M="
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Olingo",
+  "description": "NFT named Olingo. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 7,260. Health: 1,233. Attack: 1,633. Sats: 56,655. Size: 1,112. F28: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "7,260"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,233"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,633"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "56,655"
+    },
+    {
+      "trait_type": "Size",
+      "value": "1,112"
+    },
+    {
+      "trait_type": "F28"
+    }
+  ],
+  "signature": "ANH7Eq5pt5HgSUZaY6GIjGkLK8htGiJQAV7Ok0YZ6+A="
+}

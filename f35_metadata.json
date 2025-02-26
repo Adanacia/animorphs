@@ -1,0 +1,44 @@
+{
+  "name": "Secretary_Bird",
+  "description": "NFT named Secretary_Bird. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 9,463. Health: 1,460. Attack: 1,555. Sats: 33,002. Size: 2,818. F35: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,463"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,460"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,555"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "33,002"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,818"
+    },
+    {
+      "trait_type": "F35"
+    }
+  ],
+  "signature": "0mTU/0U/nFFLbxWfmFE7SULLp3BLosvpUSGhEHKllxI="
+}

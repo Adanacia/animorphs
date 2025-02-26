@@ -1,0 +1,44 @@
+{
+  "name": "Miniature_Schnauzer",
+  "description": "NFT named Miniature_Schnauzer. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 6,471. Health: 1,192. Attack: 1,470. Sats: 86,777. Size: 726. F25: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "6,471"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,192"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,470"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "86,777"
+    },
+    {
+      "trait_type": "Size",
+      "value": "726"
+    },
+    {
+      "trait_type": "F25"
+    }
+  ],
+  "signature": "C6ZfNSVNOUL5gOLNodSSwdbNuW23Zro1iG6fNzxQXLA="
+}

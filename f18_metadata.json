@@ -1,0 +1,44 @@
+{
+  "name": "Impala",
+  "description": "NFT named Impala. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 12,321. Health: 1,842. Attack: 2,038. Sats: 80,624. Size: 3,014. F18: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "12,321"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,842"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,038"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "80,624"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,014"
+    },
+    {
+      "trait_type": "F18"
+    }
+  ],
+  "signature": "uNnyMS0tIzNusjMY4u1hdTeMmii/Dl0/XePyo902TF4="
+}

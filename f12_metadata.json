@@ -1,0 +1,44 @@
+{
+  "name": "Flamingo",
+  "description": "NFT named Flamingo. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 11,703. Health: 2,471. Attack: 1,453. Sats: 54,294. Size: 2,818. F12: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "11,703"
+    },
+    {
+      "trait_type": "Health",
+      "value": "2,471"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,453"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "54,294"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,818"
+    },
+    {
+      "trait_type": "F12"
+    }
+  ],
+  "signature": "ecf+vf3OY4VxfKhY33aZmAwtWx4c6qdbMWi20dUfifM="
+}

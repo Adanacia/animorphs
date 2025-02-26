@@ -1,0 +1,44 @@
+{
+  "name": "Cheetah",
+  "description": "NFT named Cheetah. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 13,399. Health: 1,154. Attack: 2,693. Sats: 106,389. Size: 3,412. F8: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "13,399"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,154"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "2,693"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "106,389"
+    },
+    {
+      "trait_type": "Size",
+      "value": "3,412"
+    },
+    {
+      "trait_type": "F8"
+    }
+  ],
+  "signature": "S+pIxJadEIOCt+6P0jRvTIPGVebscI8BT1a1lffBmYQ="
+}

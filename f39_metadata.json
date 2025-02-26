@@ -1,0 +1,44 @@
+{
+  "name": "Warthog",
+  "description": "NFT named Warthog. : undefined. Animorph: undefined. Type: Fire. Power: undefined. Rating: 9,705. Health: 1,530. Attack: 1,838. Sats: 72,917. Size: 2,016. F39: undefined. ",
+  "external_url": "https://www.mythicmasters.co.za",
+  "attributes": [
+    {
+      "trait_type": ""
+    },
+    {
+      "trait_type": "Animorph"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Power"
+    },
+    {
+      "trait_type": "Rating",
+      "value": "9,705"
+    },
+    {
+      "trait_type": "Health",
+      "value": "1,530"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "1,838"
+    },
+    {
+      "trait_type": "Sats",
+      "value": "72,917"
+    },
+    {
+      "trait_type": "Size",
+      "value": "2,016"
+    },
+    {
+      "trait_type": "F39"
+    }
+  ],
+  "signature": "Cfhz3DraBzgTnqTijxBAwRAQYfS+S6gGYTrqAKY5j8s="
+}
